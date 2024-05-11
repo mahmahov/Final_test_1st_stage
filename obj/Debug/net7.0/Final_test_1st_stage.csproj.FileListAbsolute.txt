@@ -1,0 +1,14 @@
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.AssemblyInfoInputs.cache
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.AssemblyInfo.cs
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.csproj.CoreCompileInputs.cache
+D:\GB_2.0\Итоговая\Final_test_1st_stage\bin\Debug\net7.0\Final_test_1st_stage.exe
+D:\GB_2.0\Итоговая\Final_test_1st_stage\bin\Debug\net7.0\Final_test_1st_stage.deps.json
+D:\GB_2.0\Итоговая\Final_test_1st_stage\bin\Debug\net7.0\Final_test_1st_stage.runtimeconfig.json
+D:\GB_2.0\Итоговая\Final_test_1st_stage\bin\Debug\net7.0\Final_test_1st_stage.dll
+D:\GB_2.0\Итоговая\Final_test_1st_stage\bin\Debug\net7.0\Final_test_1st_stage.pdb
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.dll
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\refint\Final_test_1st_stage.dll
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.pdb
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\Final_test_1st_stage.genruntimeconfig.cache
+D:\GB_2.0\Итоговая\Final_test_1st_stage\obj\Debug\net7.0\ref\Final_test_1st_stage.dll
